@@ -1,3 +1,4 @@
+![1_dm6ZaX5fuSmuVvM4Ds-vcg](https://user-images.githubusercontent.com/63750425/236152110-947d4577-5942-4eb8-8a01-b0a6013bf0d4.jpg)
 ## Logistic Regression
 Logistic regression is a popular and widely used supervised learning algorithm in machine learning. It is a classification algorithm used to predict the probability of a binary outcome (e.g., whether an email is spam or not, whether a patient has a disease or not, etc.) based on one or more input features.
 
