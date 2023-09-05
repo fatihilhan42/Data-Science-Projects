@@ -45,4 +45,7 @@ Bu proje, Konya, Türkiye'de Ekim, Kasım ve Aralık aylarında bisiklet kiralam
    ```bash
    git clone https://github.com/kullaniciadiniz/bisiklet-kiralama-analiz.git
 
+   ![image](https://github.com/fatihilhan42/Data-Science-Projects/assets/63750425/723f5fde-3d3f-4757-8dd6-b08b3d719a42)
+
+
 
